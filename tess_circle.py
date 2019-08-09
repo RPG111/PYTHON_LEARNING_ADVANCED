@@ -14,11 +14,11 @@ size = 20
 #     tess.stamp()
 #     tess.forward(size)
 #
-for _ in range(30):
-    tess.stamp()
-    size = size+3
-    tess.forward(size)
-    tess.right(24)
+# for _ in range(30):
+#     tess.stamp()
+#     size = size+3
+#     tess.forward(size)
+#     tess.right(24)
 
 for _ in range(1):
     tess.stamp()
