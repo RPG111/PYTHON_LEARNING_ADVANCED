@@ -60,7 +60,11 @@
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/NUM_ZERO_AND_FIVE_DIGITS.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -165,49 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.NUM_ZERO_AND_FIVE_DIGITS">
-    <configuration name="4_continuous_squares_problem" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PYTHON LEARNING" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_continuous_squares_problem.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="CHEF_AND_PAJA" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PYTHON LEARNING" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CHEF_AND_PAJA.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.SPIRAL_SQUARE">
     <configuration name="NUM_ZERO_AND_FIVE_DIGITS" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PYTHON LEARNING" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -221,6 +183,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NUM_ZERO_AND_FIVE_DIGITS.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Rainbow_Benzene" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON LEARNING" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Rainbow_Benzene.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -271,13 +254,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="snowflakes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PYTHON LEARNING" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snowflakes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.SPIRAL_SQUARE" />
+        <item itemvalue="Python.Rainbow_Benzene" />
+        <item itemvalue="Python.snowflakes" />
         <item itemvalue="Python.NUM_ZERO_AND_FIVE_DIGITS" />
         <item itemvalue="Python.SEQ3NP1" />
-        <item itemvalue="Python.CHEF_AND_PAJA" />
-        <item itemvalue="Python.SPIRAL_SQUARE" />
-        <item itemvalue="Python.4_continuous_squares_problem" />
       </list>
     </recent_temporary>
   </component>
@@ -341,18 +345,26 @@
       <option name="project" value="LOCAL" />
       <updated>1565779249992</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="NUM_ZERO_AND_FIVE_DIGITS">
+      <created>1565780830333</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1565780830333</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.11439114" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49838188" visible="true" weight="0.11439114" />
       <window_info id="Structure" order="1" sideWeight="0.5016129" side_tool="true" weight="0.23194517" />
       <window_info id="Favorites" order="2" sideWeight="0.50161815" side_tool="true" weight="0.23194517" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49762782" visible="true" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49762782" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49973643" weight="0.3984799" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,7 +435,8 @@
     <MESSAGE value="SPIRAL SQUARE 2" />
     <MESSAGE value="CHEF and PAJA" />
     <MESSAGE value="SEQ3NP1" />
-    <option name="LAST_COMMIT_MESSAGE" value="SEQ3NP1" />
+    <MESSAGE value="NUM_ZERO_AND_FIVE_DIGITS" />
+    <option name="LAST_COMMIT_MESSAGE" value="NUM_ZERO_AND_FIVE_DIGITS" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file:///usr/lib/python3.7/tkinter/__init__.py">
@@ -562,7 +575,11 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/NUM_ZERO_AND_FIVE_DIGITS.py">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
